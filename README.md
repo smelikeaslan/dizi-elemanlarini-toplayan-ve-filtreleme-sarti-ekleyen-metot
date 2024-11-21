@@ -1,0 +1,1 @@
+# dizi-elemanlarini-toplayan-ve-filtreleme-sarti-ekleyen-metot
